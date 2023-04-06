@@ -19,7 +19,7 @@
    check your logic, but you should write the function as if your pipeline
    was moving millions of records, not just the test data included here.
 
-## Installation (max/linux)
+## Installation (mac/linux)
 
 1. clone this repository `git clone git@github.com:dcheno/pyspark-test.git`
    (or whatever your preferred method)
